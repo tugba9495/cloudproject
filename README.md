@@ -1,2 +1,3 @@
 # cloudproject
-dont delete
+don't delete
+please don't delete kindly.
